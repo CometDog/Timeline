@@ -1,0 +1,39 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "James Downs",
+    "longName": "Timeline",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/lines.png",
+                "name": "BACKGROUND",
+                "type": "png"
+            },
+            {
+                "file": "fonts/OpenSans-Light.ttf",
+                "name": "OPEN_SANS_20",
+                "type": "font"
+            },
+            {
+                "file": "fonts/OpenSans-Light.ttf",
+                "name": "OPEN_SANS_52",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Timeline",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "15187d9c-2999-4b94-89d6-6a36689ca800",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
